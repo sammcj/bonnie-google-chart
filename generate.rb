@@ -168,7 +168,7 @@ module Formatter
   <head>
   <title>bonnie2gchart</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript" src="https://raw.githubusercontent.com/sammcj/bonnie-google-chart/master/jsapi.js"></script>
     <script type="text/javascript">
       google.load("visualization", "1", {packages:["corechart"]});
       google.setOnLoadCallback(drawChart);
